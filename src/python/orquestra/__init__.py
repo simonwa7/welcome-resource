@@ -1,1 +1,1 @@
-from .welcome imiport *
+from .welcome import *
